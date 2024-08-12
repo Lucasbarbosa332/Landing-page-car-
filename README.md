@@ -5,9 +5,8 @@ Landing Page Car Sales
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-
-
-
+<img width=100% src=""></img>
+<img width=100% src=""></img>
 <img width=100% src=""></img>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -30,4 +29,4 @@ Landing Page Car Sales
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-[Car]()
+[Car](https://luxury-tapioca-8a1306.netlify.app/)
