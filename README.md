@@ -1,2 +1,2 @@
 # Landing-page-car-
-Landing Page Car. Sales 
+Landing Page Car Sales 
